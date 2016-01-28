@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlacesSample</string>
+    <string name="api_key">AIzaSyBaRnk4-ncibmdkyRw3g008Sbs4EI9gFFk</string>
+    <string name="toolbar_title">Wybrane miejsce</string>
+</resources>
